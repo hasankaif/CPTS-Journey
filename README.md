@@ -6,8 +6,11 @@ This repository documents what I learn, the techniques I practice, problems I en
 ## Current Status
 
 **Goal:** Hack The Box [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
+
 **Status:** 🟢In preparation (0.1%)
+
 **Started:** 2026-09-17
+
 
 ## Journey
 
