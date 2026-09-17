@@ -1,0 +1,10 @@
+The Journal directory records the overall progression (as logs) toward CPTS.
+
+This includes:
+
+- Study goals
+- Weekly progress
+- Completed topics
+- Practical milestones
+- Lessons learned
+- Next objectives
