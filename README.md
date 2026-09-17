@@ -17,13 +17,13 @@ This repository documents what I learn, the techniques I practice, problems I en
 
 | Stage                     | Status |
 | ------------------------- | ------ |
-| Phase 1: Introduction & Fundamentals     |  N/A   |
-| Phase 2: Reconnaissance, Enumeration & Planning              |  N/A   |
-| Phase 3: Network & Active Directory Exploitation  |  N/A   |
-| Phase 4: Web Application Exploitation            |  N/A   |
-| Phase 5: Post-Exploitation & Privilege Escalation         |  N/A   |
-| Phase 6: Reporting & Path Capstone          |  N/A   |
-| CPTS Exam                 |  N/A   |
+| Phase 1: Introduction & Fundamentals               |  🟢Ongoing   |
+| Phase 2: Reconnaissance, Enumeration & Planning    |  N/A   |
+| Phase 3: Network & Active Directory Exploitation   |  N/A   |
+| Phase 4: Web Application Exploitation              |  N/A   |
+| Phase 5: Post-Exploitation & Privilege Escalation  |  N/A   |
+| Phase 6: Reporting & Path Capstone                 |  N/A   |
+| CPTS Exam                                          |  N/A   |
 
 ## What You'll Find Here
 
