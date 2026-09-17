@@ -17,17 +17,12 @@ This repository documents what I learn, the techniques I practice, problems I en
 
 | Stage                     | Status |
 | ------------------------- | ------ |
-| Information Gathering     |  N/A   |
-| Footprinting              |  N/A   |
-| Vulnerability Assessment  |  N/A   |
-| File Transfers            |  N/A   |
-| Shells & Payloads         |  N/A   |
-| Password Attacks          |  N/A   |
-| Attacking Common Services |  N/A   |
-| Pivoting & Tunneling      |  N/A   |
-| Active Directory          |  N/A   |
-| Privilege Escalation      |  N/A   |
-| Reporting                 |  N/A   |
+| Phase 1: Introduction & Fundamentals     |  N/A   |
+| Phase 2: Reconnaissance, Enumeration & Planning              |  N/A   |
+| Phase 3: Network & Active Directory Exploitation  |  N/A   |
+| Phase 4: Web Application Exploitation            |  N/A   |
+| Phase 5: Post-Exploitation & Privilege Escalation         |  N/A   |
+| Phase 6: Reporting & Path Capstone          |  N/A   |
 | CPTS Exam                 |  N/A   |
 
 ## What You'll Find Here
